@@ -11,3 +11,5 @@ VideoLAN.VLC*
 Zoom.Zoom*
 Adobe.Acrobat*
 Foxit.FoxitReader*
+Notepad++*
+Wireshark*
