@@ -13,6 +13,7 @@ Microsoft.OneDrive*
 Microsoft.Teams*
 Mozilla.Firefox*
 Mozilla.Thunderbird*
+Microsoft.Office*
 Notepad++.Notepad++*
 ojdkbuild*
 Oracle*
