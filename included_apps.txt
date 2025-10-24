@@ -41,6 +41,7 @@ Cisco.Webex*
 Dell.CommandUpdate*
 Dropbox.Dropbox*
 DYMO.DYMOConnect*
+Elsevier.MendeleyReferenceManager*
 FireDaemon.OpenSSL*
 Foxit.FoxitReader*
 Foxit.PhantomPDF*
