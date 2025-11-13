@@ -107,6 +107,7 @@ Oracle.JavaRuntimeEnvironment*
 OSGeo.QGIS*
 PuTTY.PuTTY*
 Piriform.Speccy*
+PostgreSQL.pgAdmin*
 RevoUninstaller.RevoUninstaller*
 Rufus.Rufus*
 RustDesk.RustDesk*
