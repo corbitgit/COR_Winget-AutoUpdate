@@ -116,6 +116,7 @@ TeamViewer.TeamViewer*
 VideoLAN.VLC*
 WhatsApp.WhatsApp*
 WiresharkFoundation.Wireshark*
+WinDirStat.WinDirStat*
 XP89DCGQ3K6VLD*
 XP8BT8DW290MPQ*
 XP99J3KP4XZ4VV*
