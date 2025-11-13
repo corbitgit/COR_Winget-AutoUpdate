@@ -104,11 +104,13 @@ OSGeo.QGIS*
 PuTTY.PuTTY*
 Piriform.Speccy*
 RevoUninstaller.RevoUninstaller*
+Rufus.Rufus*
 RustDesk.RustDesk*
 Spotify.Spotify*
 Stremio.Stremio*
 SublimeHQ.SublimeMerge*
 SublimeHQ.SublimeText*
+SublimeHQ.SublimeText.4*
 TeamViewer.TeamViewer*
 VideoLAN.VLC*
 WhatsApp.WhatsApp*
