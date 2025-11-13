@@ -117,6 +117,7 @@ Rufus.Rufus*
 RustDesk.RustDesk*
 Spotify.Spotify*
 Stremio.Stremio*
+Valve.Steam*
 SublimeHQ.SublimeMerge*
 SublimeHQ.SublimeText*
 SublimeHQ.SublimeText.4*
