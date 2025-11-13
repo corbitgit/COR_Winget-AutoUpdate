@@ -52,6 +52,7 @@ Google.Chrome*
 Google.GoogleDrive*
 Greenshot.Greenshot*
 Jabra.Direct*
+JAMSoftware.TreeSize.Free*
 JGraph.Draw*
 JetBrains.Rider*
 JetBrains.ReSharper*
