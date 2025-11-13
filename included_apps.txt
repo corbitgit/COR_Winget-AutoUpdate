@@ -41,6 +41,7 @@ Cisco.CiscoWebexMeetings*
 Cisco.Webex*
 Dell.CommandUpdate*
 Dropbox.Dropbox*
+Docker.DockerDesktop*
 DYMO.DYMOConnect*
 Elsevier.MendeleyReferenceManager*
 Famatech.AdvancedIPScanner*
