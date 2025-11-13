@@ -118,6 +118,7 @@ RustDesk.RustDesk*
 Spotify.Spotify*
 Stremio.Stremio*
 Valve.Steam*
+Python.Python.3.14*
 SublimeHQ.SublimeMerge*
 SublimeHQ.SublimeText*
 SublimeHQ.SublimeText.4*
