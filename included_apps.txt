@@ -43,6 +43,7 @@ Dell.CommandUpdate*
 Dropbox.Dropbox*
 DYMO.DYMOConnect*
 Elsevier.MendeleyReferenceManager*
+Famatech.AdvancedIPScanner*
 FireDaemon.OpenSSL*
 Foxit.FoxitReader*
 Foxit.PhantomPDF*
