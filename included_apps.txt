@@ -109,6 +109,7 @@ OSGeo.QGIS*
 PuTTY.PuTTY*
 Piriform.Speccy*
 PostgreSQL.pgAdmin*
+Postman.Postman*
 RevoUninstaller.RevoUninstaller*
 Rufus.Rufus*
 RustDesk.RustDesk*
