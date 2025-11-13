@@ -107,6 +107,7 @@ Oracle.JDK.23*
 Oracle.JDK.24*
 Oracle.JavaRuntimeEnvironment*
 OSGeo.QGIS*
+OpenJS.NodeJS*
 PuTTY.PuTTY*
 Piriform.Speccy*
 PostgreSQL.pgAdmin*
