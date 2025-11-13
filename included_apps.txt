@@ -29,6 +29,7 @@ Adobe.Acrobat.Reader.32-bit*
 Adobe.Acrobat.Reader.64-bit*
 Adobe.AdobeConnect*
 Adobe.CreativeCloud*
+Anysphere.Cursor*
 Autodesk.AutodeskAccess*
 Autodesk.DesktopApp*
 BelgianGovernment.Belgium-eIDmiddleware*
