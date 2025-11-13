@@ -39,6 +39,7 @@ Canva.Canva*
 CartamundiDigital.Fundels*
 Cisco.CiscoWebexMeetings*
 Cisco.Webex*
+CoreyButler.NVMforWindows*
 Dell.CommandUpdate*
 Dropbox.Dropbox*
 Docker.DockerDesktop*
