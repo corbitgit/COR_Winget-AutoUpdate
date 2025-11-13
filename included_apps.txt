@@ -48,6 +48,7 @@ Famatech.AdvancedIPScanner*
 FireDaemon.OpenSSL*
 Foxit.FoxitReader*
 Foxit.PhantomPDF*
+Git.Git
 GitHub.GitHubDesktop*
 Google.Chrome*
 Google.GoogleDrive*
