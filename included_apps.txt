@@ -96,6 +96,7 @@ Microsoft.VisualStudioCode*
 MiniTool.PartitionWizard.Free*
 Mozilla.Firefox*
 Mozilla.Thunderbird*
+Niko.HomeControlProgrammingSoftware*
 Notepad++.Notepad++*
 Notion.Notion*
 Oracle.JDK.17*
