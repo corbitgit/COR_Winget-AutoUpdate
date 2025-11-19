@@ -64,6 +64,7 @@ JetBrains.dotUltimate*
 Logitech.GHUB*
 Logitech.OptionsPlus*
 MartiCliment.UniGetUI*
+Microsoft.CompanyPortal*
 Microsoft.DotNet.AspNetCore.6*
 Microsoft.DotNet.AspNetCore.7*
 Microsoft.DotNet.AspNetCore.8*
